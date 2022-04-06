@@ -8,7 +8,7 @@ Children and adolescents with mental health needs frequently are involved with m
 ## Problem Statement
 Childrens are interested in improving their mental health, despite the stigma, especially in these stressful times. They face a problem that they don’t know where to start learning about improving their mental health and seeking professional help is also difficult for being expensive and inaccessible due to family views as well. We aim to aid in making a safe space for childrens in need of a secure, and provide mental health guidance and professional help.
 
-## Significance of the Proposed Project
+## Significance of the STudy
 Children's development of social, emotional and behavioral well-being is central to their overall healthy development. Good mental health helps them develop the resilience to cope with whatever life throws at them and grow into well-rounded, healthy adults.
 
  Children need to have a good mental health if they are going to live up to their full potential and truly live a life that is filled with positive experiences and the willingness to do what is best for themselves and the people around them. Mentally healthy children have an overall good outlook on life, and can function well at home, in school, and in their communities.
